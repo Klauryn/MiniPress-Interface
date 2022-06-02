@@ -1,0 +1,16 @@
+C:\Users\Hidrometa\Desktop\Ozan\Framework\MINI-PRESS Framework\MINI-PRESS Framework\bin\Debug\MINI-PRESS Framework.exe.config
+C:\Users\Hidrometa\Desktop\Ozan\Framework\MINI-PRESS Framework\MINI-PRESS Framework\bin\Debug\MINI-PRESS Framework.exe
+C:\Users\Hidrometa\Desktop\Ozan\Framework\MINI-PRESS Framework\MINI-PRESS Framework\bin\Debug\MINI-PRESS Framework.pdb
+C:\Users\Hidrometa\Desktop\Ozan\Framework\MINI-PRESS Framework\MINI-PRESS Framework\obj\Debug\MINI-PRESS Framework.csproj.AssemblyReference.cache
+C:\Users\Hidrometa\Desktop\Ozan\Framework\MINI-PRESS Framework\MINI-PRESS Framework\obj\Debug\MINI_PRESS_Framework.Form1.resources
+C:\Users\Hidrometa\Desktop\Ozan\Framework\MINI-PRESS Framework\MINI-PRESS Framework\obj\Debug\MINI_PRESS_Framework.Properties.Resources.resources
+C:\Users\Hidrometa\Desktop\Ozan\Framework\MINI-PRESS Framework\MINI-PRESS Framework\obj\Debug\MINI-PRESS Framework.csproj.GenerateResource.cache
+C:\Users\Hidrometa\Desktop\Ozan\Framework\MINI-PRESS Framework\MINI-PRESS Framework\obj\Debug\MINI-PRESS Framework.csproj.CoreCompileInputs.cache
+C:\Users\Hidrometa\Desktop\Ozan\Framework\MINI-PRESS Framework\MINI-PRESS Framework\obj\Debug\MINI-PRESS Framework.exe
+C:\Users\Hidrometa\Desktop\Ozan\Framework\MINI-PRESS Framework\MINI-PRESS Framework\obj\Debug\MINI-PRESS Framework.pdb
+C:\Users\Hidrometa\Desktop\Ozan\Framework\MINI-PRESS Framework\MINI-PRESS Framework\obj\Debug\MINI_PRESS_Framework.TestCall.resources
+C:\Users\Hidrometa\Desktop\Ozan\Framework\MINI-PRESS Framework\MINI-PRESS Framework\obj\Debug\MINI_PRESS_Framework.TestEdit.resources
+C:\Users\Hidrometa\Desktop\Ozan\Framework\MINI-PRESS Framework\MINI-PRESS Framework\obj\Debug\MINI_PRESS_Framework.Compare.resources
+C:\Users\Hidrometa\Desktop\Ozan\Framework\MINI-PRESS Framework\MINI-PRESS Framework\obj\Debug\MINI_PRESS_Framework.MoldInformation.resources
+C:\Users\Hidrometa\Desktop\Ozan\Framework\MINI-PRESS Framework\MINI-PRESS Framework\obj\Debug\MINI_PRESS_Framework.ControlParameters.resources
+C:\Users\Hidrometa\Desktop\Ozan\Framework\MINI-PRESS Framework\MINI-PRESS Framework\obj\Debug\MINI_PRESS_Framework.MotionProfile.resources
