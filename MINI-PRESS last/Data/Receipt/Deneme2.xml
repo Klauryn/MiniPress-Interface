@@ -1,0 +1,80 @@
+<?xml version='1.0' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>20.0f1</Version>
+<Cluster>
+<Name>Value</Name>
+<NumElts>6</NumElts>
+<String>
+<Name>Parça No</Name>
+<Val>Deneme2</Val>
+</String>
+<String>
+<Name>Seri No</Name>
+<Val>1</Val>
+</String>
+<String>
+<Name>Müþteri</Name>
+<Val>1</Val>
+</String>
+<String>
+<Name>Kalýp No</Name>
+<Val>1</Val>
+</String>
+<String>
+<Name>Kuvvet Limiti [kN]</Name>
+<Val>1</Val>
+</String>
+<String>
+<Name>Pres Tur</Name>
+<Val>1</Val>
+</String>
+</Cluster>
+<Cluster>
+<Name>Value</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>Kuvvet Limit</Name>
+<Val>1</Val>
+</String>
+<String>
+<Name>Grafik Limit</Name>
+<Val>1</Val>
+</String>
+</Cluster>
+<Cluster>
+<Name>Value</Name>
+<NumElts>7</NumElts>
+<DBL>
+<Name>TDC</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>S1</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>P1</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>S2</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>BDC</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>S3</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Bekleme Süresi</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+</Cluster>
+<String>
+<Name></Name>
+<Val>res1.png</Val>
+</String>
+</LVData>

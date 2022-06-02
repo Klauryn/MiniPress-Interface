@@ -1,0 +1,1 @@
+C:\PROJECTS\LABVIEW\PEGA BUMPER ile kaydet
