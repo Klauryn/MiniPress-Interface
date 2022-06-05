@@ -26,7 +26,7 @@ namespace MINI_PRESS_Framework
 
         private void Compare_Load(object sender, EventArgs e)
         {
-            
+            string Deneme = "";
         }
         /*************************************\    EXCEL ROWS AND COLUMNS    /*******************************************/
         public void Excel_RowAndColumn()
@@ -46,7 +46,7 @@ namespace MINI_PRESS_Framework
             chart1.ChartAreas[0].AxisY.Maximum = 6500;
             chart1.ChartAreas[0].AxisX.Minimum = 230;
 
-            chart1.Titles.Add("Line Chart Example");
+            //chart1.Titles.Add("Line Chart Example");
 
             string fileName = Path.Combine(path, data);
             string[] csvLines = File.ReadAllLines(fileName);

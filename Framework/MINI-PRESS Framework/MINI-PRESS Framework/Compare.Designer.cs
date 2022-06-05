@@ -29,12 +29,11 @@ namespace MINI_PRESS_Framework
         /// </summary>
         private void InitializeComponent()
         {
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea4 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend4 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series4 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea1 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend1 = new System.Windows.Forms.DataVisualization.Charting.Legend();
             this.panel1 = new System.Windows.Forms.Panel();
-            this.chart1 = new System.Windows.Forms.DataVisualization.Charting.Chart();
             this.button1 = new System.Windows.Forms.Button();
+            this.chart1 = new System.Windows.Forms.DataVisualization.Charting.Chart();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.chart1)).BeginInit();
             this.SuspendLayout();
@@ -50,23 +49,6 @@ namespace MINI_PRESS_Framework
             this.panel1.Size = new System.Drawing.Size(1053, 609);
             this.panel1.TabIndex = 0;
             // 
-            // chart1
-            // 
-            chartArea4.Name = "ChartArea1";
-            this.chart1.ChartAreas.Add(chartArea4);
-            legend4.Name = "Legend1";
-            this.chart1.Legends.Add(legend4);
-            this.chart1.Location = new System.Drawing.Point(400, 12);
-            this.chart1.Margin = new System.Windows.Forms.Padding(0);
-            this.chart1.Name = "chart1";
-            series4.ChartArea = "ChartArea1";
-            series4.Legend = "Legend1";
-            series4.Name = "Series1";
-            this.chart1.Series.Add(series4);
-            this.chart1.Size = new System.Drawing.Size(641, 585);
-            this.chart1.TabIndex = 0;
-            this.chart1.Text = "chart1";
-            // 
             // button1
             // 
             this.button1.Location = new System.Drawing.Point(234, 138);
@@ -76,6 +58,19 @@ namespace MINI_PRESS_Framework
             this.button1.Text = "button1";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
+            // chart1
+            // 
+            chartArea1.Name = "ChartArea1";
+            this.chart1.ChartAreas.Add(chartArea1);
+            legend1.Name = "Legend1";
+            this.chart1.Legends.Add(legend1);
+            this.chart1.Location = new System.Drawing.Point(400, 12);
+            this.chart1.Margin = new System.Windows.Forms.Padding(0);
+            this.chart1.Name = "chart1";
+            this.chart1.Size = new System.Drawing.Size(641, 585);
+            this.chart1.TabIndex = 0;
+            this.chart1.Text = "chart1";
             // 
             // Compare
             // 
