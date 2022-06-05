@@ -54,23 +54,23 @@
     <Compile Include="Compare.Designer.cs">
       <DependentUpon>Compare.cs</DependentUpon>
     </Compile>
-    <Compile Include="ControlParameters.cs">
+    <Compile Include="Test Parameters\ControlParameters.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="ControlParameters.Designer.cs">
+    <Compile Include="Test Parameters\ControlParameters.Designer.cs">
       <DependentUpon>ControlParameters.cs</DependentUpon>
     </Compile>
     <Compile Include="Excel.cs" />
-    <Compile Include="MoldInformation.cs">
+    <Compile Include="Test Parameters\MoldInformation.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="MoldInformation.Designer.cs">
+    <Compile Include="Test Parameters\MoldInformation.Designer.cs">
       <DependentUpon>MoldInformation.cs</DependentUpon>
     </Compile>
-    <Compile Include="MotionProfile.cs">
+    <Compile Include="Test Parameters\MotionProfile.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="MotionProfile.Designer.cs">
+    <Compile Include="Test Parameters\MotionProfile.Designer.cs">
       <DependentUpon>MotionProfile.cs</DependentUpon>
     </Compile>
     <Compile Include="TestEdit.cs">
@@ -96,13 +96,13 @@
     <EmbeddedResource Include="Compare.resx">
       <DependentUpon>Compare.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="ControlParameters.resx">
+    <EmbeddedResource Include="Test Parameters\ControlParameters.resx">
       <DependentUpon>ControlParameters.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="MoldInformation.resx">
+    <EmbeddedResource Include="Test Parameters\MoldInformation.resx">
       <DependentUpon>MoldInformation.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="MotionProfile.resx">
+    <EmbeddedResource Include="Test Parameters\MotionProfile.resx">
       <DependentUpon>MotionProfile.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="TestEdit.resx">

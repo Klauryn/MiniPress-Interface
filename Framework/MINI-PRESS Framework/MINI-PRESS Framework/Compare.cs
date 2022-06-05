@@ -28,6 +28,7 @@ namespace MINI_PRESS_Framework
         {
             string Deneme = "";
         }
+
         /*************************************\    EXCEL ROWS AND COLUMNS    /*******************************************/
         public void Excel_RowAndColumn()
         {
@@ -37,6 +38,7 @@ namespace MINI_PRESS_Framework
             _excel.Save();
             _excel.Close();
         }
+
         /*************************************\    EXCEL OPEN FILE    /*******************************************/
         public void Excel_OpenFile(string data, string seriesName)
         {
@@ -60,12 +62,13 @@ namespace MINI_PRESS_Framework
                 secondNames.Add(double.Parse(rowData[1]));
             }
 
-            Excel _excel = new Excel(fileName, 1);
-
-            for (int i = 1; i < csvLines.Length/*_tuple.Item1*/; i++)
+            for (int i = 1; i < csvLines.Length; i++)
             {
                 chart1.Series[seriesName].Points.AddXY(firstNames[i - 1], secondNames[i - 1]);
             }
+
+            ////Excel Save ve Close işlemleri yapıldı.
+            Excel _excel = new Excel(fileName, 1);
             _excel.Save();
             _excel.Close();
         }
@@ -92,8 +95,9 @@ namespace MINI_PRESS_Framework
             _excel.SaveAs(fileName);
             _excel.Close();
         }
+
         /*************************************\    CALL EXCEL TO CHART    /*******************************************/
-        private void button1_Click(object sender, EventArgs e)
+        private void btnShowChart_Click(object sender, EventArgs e)
         {
             Excel_OpenFile("Reference\\Açık Tip 7_5 Ton_3.csv", "B1");
             Excel_OpenFile("Reference\\Açık Tip 7_5 Ton_2.csv", "B2");
